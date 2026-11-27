@@ -1,7 +1,10 @@
 # AngryFuzz3r
+<img src="smiley.svg" width="80" alt="rotating smiley"/>
+
 ![screen_1](http://i.imgur.com/QetqbO1.png)
 
 Status: **Development**
+Built with Claude
 ## About the AngryFuzz3r project
 AngryFuzz3r is a collection of tools for pentesting to gather information and discover vulnerabilities of the targets based on Fuzzedb https://github.com/fuzzdb-project/fuzzdb project
 ## UrlFuzz3r->AngryFuzz3r_1
